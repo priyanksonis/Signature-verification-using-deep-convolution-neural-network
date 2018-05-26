@@ -1,0 +1,26 @@
+/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/SCIKIT-LEARN/0.18.1/gnu/lib/python2.7/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Traceback (most recent call last):
+  File "adaboost.py", line 201, in <module>
+    plot_error_rate(er_train, er_test)
+  File "adaboost.py", line 79, in plot_error_rate
+    color = ['lightblue', 'darkblue'], grid = True)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/PANDAS/0.20.0rc1/gnu/lib/python2.7/site-packages/pandas-0.20.0rc1-py2.7-linux-x86_64.egg/pandas/plotting/_core.py", line 2620, in __call__
+    sort_columns=sort_columns, **kwds)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/PANDAS/0.20.0rc1/gnu/lib/python2.7/site-packages/pandas-0.20.0rc1-py2.7-linux-x86_64.egg/pandas/plotting/_core.py", line 1857, in plot_frame
+    **kwds)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/PANDAS/0.20.0rc1/gnu/lib/python2.7/site-packages/pandas-0.20.0rc1-py2.7-linux-x86_64.egg/pandas/plotting/_core.py", line 1682, in _plot
+    plot_obj.generate()
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/PANDAS/0.20.0rc1/gnu/lib/python2.7/site-packages/pandas-0.20.0rc1-py2.7-linux-x86_64.egg/pandas/plotting/_core.py", line 237, in generate
+    self._setup_subplots()
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/PANDAS/0.20.0rc1/gnu/lib/python2.7/site-packages/pandas-0.20.0rc1-py2.7-linux-x86_64.egg/pandas/plotting/_core.py", line 288, in _setup_subplots
+    fig = self.plt.figure(figsize=self.figsize)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/MATPLOTLIB/2.0.0/gnu/lib/python2.7/site-packages/matplotlib-2.0.0-py2.7-linux-x86_64.egg/matplotlib/pyplot.py", line 535, in figure
+    **kwargs)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/MATPLOTLIB/2.0.0/gnu/lib/python2.7/site-packages/matplotlib-2.0.0-py2.7-linux-x86_64.egg/matplotlib/backends/backend_tkagg.py", line 81, in new_figure_manager
+    return new_figure_manager_given_figure(num, figure)
+  File "/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/MATPLOTLIB/2.0.0/gnu/lib/python2.7/site-packages/matplotlib-2.0.0-py2.7-linux-x86_64.egg/matplotlib/backends/backend_tkagg.py", line 89, in new_figure_manager_given_figure
+    window = Tk.Tk()
+  File "/home/soft/PYTHON/2.7.13/ucs4/gnu/447/lib/python2.7/lib-tk/Tkinter.py", line 1820, in __init__
+    self.tk = _tkinter.create(screenName, baseName, className, interactive, wantobjects, useTk, sync, use)
+_tkinter.TclError: no display name and no $DISPLAY environment variable
