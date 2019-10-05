@@ -1,5 +1,0 @@
-# config.py
-debug = True
-
-
-

@@ -1,4 +1,0 @@
-Using TensorFlow backend.
-/home/apps/PYTHONPACKAGES/2.7.13/ucs4/gnu/447/SCIKIT-LEARN/0.18.1/gnu/lib/python2.7/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
-  "This module will be removed in 0.20.", DeprecationWarning)
-/var/spool/PBS/mom_priv/jobs/605015.hn1.hpc.iitd.ac.in.SC: line 15:  3691 Killed                  python /home/ee/mtech/eet162639/majorproject/resnet50_0_1.py

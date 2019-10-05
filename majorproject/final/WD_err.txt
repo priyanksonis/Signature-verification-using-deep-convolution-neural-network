@@ -1,2 +1,0 @@
-/var/spool/PBS/mom_priv/jobs/612687.hn1.hpc.iitd.ac.in.SC: line 17: syntax error near unexpected token `('
-/var/spool/PBS/mom_priv/jobs/612687.hn1.hpc.iitd.ac.in.SC: line 17: `python WD_L(balanced)_signet.py'
