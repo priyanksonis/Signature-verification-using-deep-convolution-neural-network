@@ -8,7 +8,7 @@ Link to presentation: https://docs.google.com/presentation/d/1fRZ_1odWmjUM2ZEoDv
 
 Hi Mr. X,
 
-I got your email regarding some clarification on this project. I accidently deleted that email, Please email again, I will help you.
+I got your email regarding some clarification on this project. I accidently deleted that email, please email again, I will help you.
 
 Regards,
 
